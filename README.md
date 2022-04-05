@@ -1,7 +1,7 @@
-# behome-bd
+# behome
 rental listing site directly with the owner
 
-Behome – O jeito simples de procurar sua casa sem sair de casa
+Behome – O jeito mais fácil de procurar sua casa sem sair de casa
 
                                                                             Apresentação.
 
